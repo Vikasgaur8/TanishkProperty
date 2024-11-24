@@ -191,7 +191,7 @@ function createCard(property) {
   button.classList.add("knowMore");
   const a = document.createElement("a");
   //   button.classList.add("a");
-  a.href = "/knowMorePage/knowMore.html";
+  a.href = "knowMorePage/knowMore.html";
   a.target = "_black";
   a.textContent = "Know More";
 
